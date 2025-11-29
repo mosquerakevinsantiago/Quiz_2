@@ -10,4 +10,8 @@
 
 5. 🦁 Reverse Shell: Una conexión iniciada por un sistema comprometido hacia la máquina del atacante, eludiendo firewalls de red.
 
+6. 🦍  Worm (Gusano): Malware que se propaga automáticamente por redes.
+
+7. 👺Zero-Day: Vulnerabilidad desconocida aún no parcheada.
+
 

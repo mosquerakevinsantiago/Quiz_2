@@ -12,6 +12,7 @@
 
 6. 🦍  Worm (Gusano): Malware que se propaga automáticamente por redes.
 
-7. 👺Zero-Day: Vulnerabilidad desconocida aún no parcheada.
+7. 👺Cross-Site Scripting (XSS): Ataque que inyecta código malicioso en sitios web.
+
 
 
